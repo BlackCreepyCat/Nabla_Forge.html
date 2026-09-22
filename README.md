@@ -136,6 +136,9 @@ Comments: `(* like this *)`.
 
 ---
 
+<img width="2319" height="1189" alt="image" src="https://github.com/user-attachments/assets/89606555-b8a3-4aa2-aecd-8ae052222d69" />
+
+
 ## 🎛 The Pupitre (Manipulate)
 
 Click the sliders icon in the toolbar: a floating panel lists every numeric parameter of every node, grouped and color-coded. Tweak your whole scene from one place — ideal while it's animating. Draggable, closable, live.
