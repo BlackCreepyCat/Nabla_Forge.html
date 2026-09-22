@@ -40,7 +40,7 @@ Try the **Exemples** menu for 21 curated scenes: fractal terrain, Möbius strip,
 
 ---
 
-<img width="1557" height="805" alt="image" src="https://github.com/user-attachments/assets/1db49427-aca6-43e0-a005-8057a1443026" />
+<img width="2323" height="1214" alt="image" src="https://github.com/user-attachments/assets/277a2cdd-b850-42f1-8d1d-3b9be85e6e82" />
 
 
 ## 🧩 Core concept: everything is a field
@@ -78,6 +78,8 @@ hypot(x-2, y)                   // vector length helper
 Comments: `(* like this *)`.
 
 ---
+
+<img width="2560" height="1208" alt="image" src="https://github.com/user-attachments/assets/95dcd599-3637-4524-a565-aed0f52277d3" />
 
 ## 📚 The node library
 
