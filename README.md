@@ -26,6 +26,8 @@ No installation, no account, no server. Everything runs locally: the graph compi
 
 ---
 
+<img width="1557" height="1013" alt="image" src="https://github.com/user-attachments/assets/750d7a80-eedb-4635-8c67-cdddd79ea629" />
+
 ## 🚀 Getting started
 
 1. Download `index.html` (the whole app is one file).
