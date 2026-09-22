@@ -248,9 +248,6 @@ index.html
 
 ## 📄 License
 
-MIT — do whatever you want, attribution appreciated.
+MIT — Do whatever you want, attribution appreciated.
 
-*Nabla Forge v2.4 — forge your fields.* 🔺
 ```
-
-Copy everything between the fences into a file named `README.md` and push it next to your `index.html` — GitHub will render the tables, emojis and everything automatically.
