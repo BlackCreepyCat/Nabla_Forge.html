@@ -13,8 +13,8 @@ No installation, no account, no server. Everything runs locally: the graph compi
 |---|---|
 | **Node editor** | 20+ node types, drag-and-drop, bezier wires, cycle detection, rubber-band selection, multi-move, Ctrl+D duplicate (copies internal links) |
 | **Fields** | Free-form expressions with implicit multiplication (`2x`, `x(x-1)`), 40+ built-in functions, fBm noise, domain warping |
-| **8 renderers** | Surfaces, parametric surfaces, 3D curves, vector fields, 2D contours, streamlines, advected particles, HTML exporter |
-| **8 colormaps** | viridis, magma, plasma, inferno, cividis, ocean, sunset, mono |
+| **8 renders** | Surfaces, parametric surfaces, 3D curves, vector fields, 2D contours, streamlines, advected particles, HTML exporter |
+| **8 palet** | viridis, magma, plasma, inferno, cividis, ocean, sunset, mono |
 | **Animation** | Time node, animated fields, self-running particle systems |
 | **Pupitre** | Floating panel aggregating *every* slider of *every* node — your custom Manipulate |
 | **History** | Full Undo/Redo (Ctrl+Z / Ctrl+Y), 60 steps |
