@@ -7,6 +7,9 @@ No installation, no account, no server. Everything runs locally: the graph compi
 
 ---
 
+<img width="2558" height="1289" alt="image" src="https://github.com/user-attachments/assets/6df32500-5bdd-4457-818f-13859bf54a42" />
+
+
 ## ✨ Features
 
 | Area | What you get |
