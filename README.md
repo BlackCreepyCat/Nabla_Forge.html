@@ -30,7 +30,7 @@ No installation, no account, no server. Everything runs locally: the graph compi
 
 ## 🚀 Getting started
 
-1. Download `index.html` (the whole app is one file).
+1. Download `Nabla_Forge.html` (the whole app is one file).
 2. Open it in any modern browser. That's it.
 3. The welcome graph loads immediately — a glowing particle vortex, already animating.
 
@@ -39,6 +39,9 @@ Try the **Exemples** menu for 21 curated scenes: fractal terrain, Möbius strip,
 > **Requirements:** any recent browser (Chrome, Firefox, Edge, Safari). Internet needed on first load only (Three.js and KaTeX come from CDN). The exported HTML pages also need internet to load Three.js.
 
 ---
+
+<img width="1557" height="805" alt="image" src="https://github.com/user-attachments/assets/1db49427-aca6-43e0-a005-8057a1443026" />
+
 
 ## 🧩 Core concept: everything is a field
 
